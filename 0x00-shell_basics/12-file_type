@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "The type of the file is: $file_type"
+
